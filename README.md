@@ -17,8 +17,9 @@ I am a passionate **Software Engineer / Security Researcher / Reverse Engineerin
 ## 📫 Contact & Links
 
 - **Email:** prathampopatiya17@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pratham-popatiya-265bba287/  
-
+- **LinkedIn:** https://www.linkedin.com/in/pratham-popatiya-265bba287/
+- **Root-Me:** https://www.root-me.org/bu11doz3r
+- **TryHackMe:** https://tryhackme.com/p/Pratham17
 ---
 
 I am always looking to **learn new technologies, contribute to open source, and solve challenging problems in systems, security, and low-level programming**.  
