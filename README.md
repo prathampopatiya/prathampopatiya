@@ -1,6 +1,6 @@
 # Hi, I'm Pratham 👋
 
-I am a passionate **Software Engineer / Security Researcher / Reverse Engineering Enthusiast** with experience in system programming, low-level development, and cryptography. I love exploring the inner workings of binaries, networks, and secure systems.  
+I am a passionate **Software Engineer / Security Researcher / Reverse Engineering Enthusiast** with experience in system programming, low-level development. I love exploring the inner workings of binaries, networks, and secure systems.  
 
 ---
 
@@ -10,7 +10,6 @@ I am a passionate **Software Engineer / Security Researcher / Reverse Engineerin
 - **Reverse Engineering & Security:** Shellcode development, Malware analysis, Binary exploitation, Crypto analysis
 - **Tools & Libraries:** GDB, Pwndbg, Capstone, BFD, OpenSSL, Cryptography library (Python)
 - **Operating Systems & Networking:** Linux (Ubuntu), TCP/IP, Socket programming, Real-time systems
-- **Other:** MATLAB GUI development, Numerical methods for ODEs, Linux kernel modules and tracepoints
 
 ---
 
