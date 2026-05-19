@@ -3,9 +3,9 @@
   
 # Hi there, I'm Pratham! 👋
 
-### 🚀 Software Engineer | 🔐 Security Researcher | ⚙️ Reverse Engineering Enthusiast
+###  Software Engineer | Security Researcher | Reverse Engineering | Malware development | Game security
 
-*I love exploring the inner workings of binaries, networks, and secure systems.*
+*I love to break things, dig into software findout their inner workings exploit them * 
 
 <pre>
      ..                                                     
@@ -58,8 +58,8 @@
   <img src="https://img.shields.io/badge/GDB-100000?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
-#### 🔐 Core Focus
-- **Security & Systems:** Malware Development, Reverse Engineering, Windows/Linux Driver Development, Fuzzing, Vulnerability Research
+#### Core Focus
+- **Security & Systems:** Malware Development, Reverse Engineering, Windows/Linux Driver Development, Fuzzing, Vulnerability Research,Game Security
 - **Tools & Environment:** IDA Pro, Ghidra, WinDbg, x64dbg, AFL++/LibAFL, Kernel Debugging, Sysinternals
 
 ---
